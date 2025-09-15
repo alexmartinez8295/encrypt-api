@@ -11,6 +11,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "crypto": "^1.0.1"
-  }
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexmartinez8295/encrypt-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alexmartinez8295/encrypt-api/issues"
+  },
+  "homepage": "https://github.com/alexmartinez8295/encrypt-api#readme"
 }
